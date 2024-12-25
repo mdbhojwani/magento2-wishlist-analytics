@@ -70,11 +70,14 @@ By following these 2 Ways you can easily obtain and install the module. For deta
 
 ## Configurations
 
-Login to the **Magento Admin**, navigate to Configurations
-Path: `Store > Content -> Wishlist Analytics`.
+Login to the **Magento Admin**, navigate to ` Customer -> Wishlist Analytics `.
 
 <div>
-    <img src="./media/1.png" alt="Admin Configurations">
+    <img src="./media/1.png" alt="Wishlist Analytics Menu Section">
+</div><br/>
+
+<div>
+    <img src="./media/2.png" alt="Wishlist Analytics Page">
 </div><br/>
 
 ## License
