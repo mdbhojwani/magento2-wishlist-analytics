@@ -74,11 +74,10 @@ Login to the **Magento Admin**, navigate to ` Customer -> Wishlist Analytics `.
 
 <div>
     <img src="./media/1.png" alt="Wishlist Analytics Menu Section">
-</div><br/>
-
+</div>
 <div>
     <img src="./media/2.png" alt="Wishlist Analytics Page">
-</div><br/>
+</div>
 
 ## License
 
