@@ -1,7 +1,5 @@
 # Magento 2 Wishlist Analytics
 
-<strong>Mdbhojwani_StorePricing</strong> 
-
 ## Table of contents
 
 - [Summary](#summary)
