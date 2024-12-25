@@ -12,11 +12,11 @@
 Analyze customer preferences and make data-driven decisions with the Magento 2 Wishlist Analytics extension.
 
 ### Key features:
-1. See all customer's wishlists on one grid
-2. Track the most popular items in your store
-3. Control the stock quantity and avoid out-of-stocks
-4. Go to product editing in one click
-5. Sort items by their popularity
+1. View all customer wishlists in a single grid.
+2. Track the most popular items in your store.
+3. Monitor stock quantities and avoid out-of-stock situations.
+4. Edit products with a single click.
+5. Sort items by their popularity.
 
 ## Installation
 
