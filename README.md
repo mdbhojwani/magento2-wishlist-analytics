@@ -50,9 +50,9 @@ https://github.com/mdbhojwani/magento2-wishlist-analytics
 
 After successfully downloading the module, follow these steps to install it:
 
-1.Unzip the downloaded folder.
+1. Unzip the downloaded folder.
 
-2.Place the unzipped extension folder into the following path:
+2. Place the unzipped extension folder into the following path:
 
 ```shell
 project-root-directory/app/code/Mdbhojwani/WishlistAnalytics
