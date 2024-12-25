@@ -13,7 +13,7 @@
     <menu>
         <add id="Mdbhojwani_WishlistAnalytics::wishlist_analytics"
              title="Wishlist Analytics" translate="title" module="Mdbhojwani_WishlistAnalytics"
-             sortOrder="100" parent="Magento_Backend::content"
+             sortOrder="100" parent="Magento_Customer::customer"
              action="wishlist/grid"
              resource="Mdbhojwani_WishlistAnalytics::wishlist_analytics"/>
     </menu>

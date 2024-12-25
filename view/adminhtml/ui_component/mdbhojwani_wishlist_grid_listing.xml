@@ -20,7 +20,7 @@
     </argument>
     <dataSource name="mdbhojwani_wishlistanalytics_grid_listing_data_source">
         <argument name="dataProvider" xsi:type="configurableObject">
-            <argument name="class" xsi:type="string">Amasty\Wishlist\Ui\DataProvider\Grid</argument>
+            <argument name="class" xsi:type="string">Mdbhojwani\WishlistAnalytics\Ui\DataProvider\Grid</argument>
             <argument name="name" xsi:type="string">mdbhojwani_wishlistanalytics_grid_listing_data_source</argument>
             <argument name="primaryFieldName" xsi:type="string">entity_id</argument>
             <argument name="requestFieldName" xsi:type="string">entity_id</argument>
